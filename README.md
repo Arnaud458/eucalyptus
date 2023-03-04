@@ -1,3 +1,4 @@
+bonjour
 Eucalyptus Cloud Platform
 =========================
 
